@@ -1,0 +1,2 @@
+🌐 Starter Template for Angular Micro Frontends (Modular Monorepo with Projects Folder)
+Welcome to this educational guide on setting up a modular monorepo with Angular Micro Frontends using Native Federation. This guide will take you through each step, making it easy to create a modular application architecture in Angular.
