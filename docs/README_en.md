@@ -104,7 +104,7 @@ export const routes: Routes = [
 ```
 - `path: ' '`: Loads `HomeComponent` as the main page.
 - `path: 'mfe1'`: Dynamically loads the `AppComponent` from `mfe1`.
-- `path: '**'`: Redirects any undefined routes to HomeComponent.
+- `path: '**'`: Redirects any undefined routes to `HomeComponent`.
 
 # 🔍 Final Verification
 After starting both applications, open the following URLs to ensure everything is working correctly:
